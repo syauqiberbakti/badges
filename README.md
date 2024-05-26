@@ -1,4 +1,5 @@
-# badges
+# Displaying AltmetricBadges Plugin for OJS/OPS
+
 OJS/OPS plugin for displaying altmetric badges
 
 Allows managers to select which altmetrics badges display in the submission pages. There are 3 badges implemented:
