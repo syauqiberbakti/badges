@@ -1,4 +1,4 @@
-# Displaying AltmetricBadges Plugin for OJS/OPS
+# Displaying Altmetric Badges Plugin for OJS/OPS
 
 OJS/OPS plugin for displaying altmetric badges
 
